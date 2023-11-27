@@ -2,9 +2,8 @@
   "name": "url_shortener",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ejs",
   "scripts": {
-    "devStart": "nodemon server.js",
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
